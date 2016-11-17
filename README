@@ -1,0 +1,30 @@
+-------------------------------------------------------------------------------
+ OMG - README
+-------------------------------------------------------------------------------
+
+ "Cos little by little, we gave you everything you ever dreamed of."
+    -	Oasis, Heathen Chemistry, Little by Little
+
+ Introduction
+ ------------
+
+ This is loose collection of a bunch of modules and extensions I made for the
+ Gauche Scheme interpreter.  Most of macros and functions should be documented
+ with examples and eventually I'll make info files for them. 
+
+ Features
+ --------
+
+
+ Install
+ -------
+
+ Just run install.sh as root user.  This will copy the extentions to the Gauche
+ site directory (e.g. gauche-config --sitelibdir).
+
+ Usage
+ -----
+
+ Look at the individual module at how to use them.
+
+-------------------------------------------------------------------------------
